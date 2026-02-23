@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandesh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on **College Management System Website**
 
 - 🌱 I’m currently learning **React, Typescript, Java**
 
